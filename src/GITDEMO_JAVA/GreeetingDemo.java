@@ -6,6 +6,7 @@ public class GreeetingDemo {
 		// TODO Auto-generated method stub
 		System.out.println("Hello GIT");
 		System.out.println("This is change done by other developer");
+		System.out.println("Okay");
 
 	}
 
